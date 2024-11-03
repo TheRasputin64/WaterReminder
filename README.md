@@ -1,4 +1,4 @@
 # WaterReminder
 > Coming Soon NIGGA!
 
-<img src="reminder.gif">
+<img src="Wreminder.gif">
